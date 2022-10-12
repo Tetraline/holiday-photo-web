@@ -2,7 +2,6 @@
   "name": "holiday-photo-web",
   "version": "0.1.0",
   "private": true,
-  "proxy": "localhost:8080",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -36,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.55.0"
   }
 }

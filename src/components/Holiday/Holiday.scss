@@ -1,0 +1,9 @@
+.holiday {
+  padding: 100px;
+  &:nth-child(2n) {
+    background-color: lightgrey;
+  }
+  .holiday__images {
+    display: flex;
+  }
+}

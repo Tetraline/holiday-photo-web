@@ -1,0 +1,10 @@
+.image {
+  width: 300px;
+  .image__img {
+    width: 100%;
+  }
+  .image__date,
+  .image__location {
+    font-weight: bold;
+  }
+}
